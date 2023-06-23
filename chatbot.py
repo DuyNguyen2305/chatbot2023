@@ -19,7 +19,7 @@ st.markdown(
 )
 
 # Thiết lập API key của ChatGPT
-openai.api_key = "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"
+openai.api_key = "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"
 
 logo_path = "logo.png"
 logo_image = Image.open(logo_path)
